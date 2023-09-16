@@ -1,0 +1,47 @@
+[
+    {
+        "userImg":"mt15.jpg",
+        "userName":"MT15_hub",
+        "postImg":"post1.jpg",
+        "likes":"3.7k",
+        "caption":"Eyes🔥❤️‍🔥",
+        "comments":"1,098",
+        "isVideo": false
+    },
+    {
+        "userImg":"drift.jpg",
+        "userName":"dri.ft24",
+        "postImg":"drift24.mp4",
+        "likes":"9.6k",
+        "caption":"Smoke",
+        "comments":"1,550",
+        "isVideo": true
+    },
+    {
+        "userImg":"dodge.jpg",
+        "userName":"dodgeofficial",
+        "postImg":"post2.jpg",
+        "likes":"5.8k",
+        "caption":"Challenger 👀",
+        "comments":"1,890",
+        "isVideo": false
+    },
+    {
+        "userImg":"mt09.jpg",
+        "userName":"MT09_global",
+        "postImg":"post3.png",
+        "likes":"4.1k",
+        "caption":"Beast 🖤",
+        "comments":"1,130",
+        "isVideo": false
+    },
+    {
+        "userImg":"jdm.jpg",
+        "userName":"JDM",
+        "postImg":"rx7.jpg",
+        "likes":"24.7k",
+        "caption":"RX-7",
+        "comments":"3,530",
+        "isVideo": false
+    }
+]

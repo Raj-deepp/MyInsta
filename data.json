@@ -1,0 +1,110 @@
+[
+    {
+        "name":"Your Story",
+        "img":"myimg.jpeg",
+        "insta":"https://www.instagram.com/rajdeepp._/"
+    },
+
+    {
+        "name":"Souvik",
+        "img":"souvik.jpg",
+        "insta":"https://www.instagram.com/souvikk._/"
+    },
+    
+    {
+        "name":"Nilanjan",
+        "img":"nilanjan.jpg",
+        "insta":"https://www.instagram.com/nilanjanmahato/"
+    },
+    
+    {
+        "name":"Ayush",
+        "img":"ayush.jpg",
+        "insta":"https://www.instagram.com/ayush_blvd/"
+    },
+    
+    {
+        "name":"Mayukh",
+        "img":"bittu.jpg",
+        "insta":"https://www.instagram.com/i_am_mayukh03/"
+    },
+
+    {
+        "name":"Priyanshu",
+        "img":"priyanshu.jpg",
+        "insta":"https://www.instagram.com/_iampriyanshukumar_/"
+    },
+    
+    {
+        "name":"Piyush",
+        "img":"piyush.jpg",
+        "insta":"https://www.instagram.com/piyush_sahoo12/"
+    },
+    
+    {
+        "name":"Priyangsu",
+        "img":"priyangsu.jpg",
+        "insta":"https://www.instagram.com/priyangsu__banerjee/"
+    },
+    
+    {
+        "name":"Shraddha",
+        "img":"shraddha.jpg",
+        "insta":"https://www.instagram.com/_simply_shruti_/"
+    },
+    
+    {
+        "name":"Priya",
+        "img":"priya.jpg",
+        "insta":"https://www.instagram.com/priyaaaa_18_/"
+    },
+
+    {
+        "name":"Barsha",
+        "img":"barsha.heic",
+        "insta":"https://www.instagram.com/barsha9116/"
+    },
+
+    {
+        "name":"Rudra",
+        "img":"rudra.jpg",
+        "insta":"https://www.instagram.com/rudraprabhatpattanayak/"
+    },
+
+    {
+        "name":"Rahul",
+        "img":"rahul.jpg",
+        "insta":"https://www.instagram.com/rahulnaik_18/"
+    },
+
+    {
+        "name":"Aiswarya",
+        "img":"aiswariya.jpg",
+        "insta":"https://www.instagram.com/aiswarya2846/"
+    },
+
+    {
+        "name":"Sinjini",
+        "img":"sinjini.jpg",
+        "insta":"https://www.instagram.com/_s_i_n_j_i_n_i_/"
+    },
+
+    {
+        "name":"Ekta",
+        "img":"ekta.jpg",
+        "insta":"https://www.instagram.com/_e_k_t_a_1/"
+    },
+
+    {
+        "name":"Anurag",
+        "img":"anurag.jpg",
+        "insta":"https://www.instagram.com/a_paradise_bird_22/"
+    },
+
+    {
+        "name":"Shreya",
+        "img":"torsa.jpg",
+        "insta":"https://www.instagram.com/ganguly33/"
+    }
+
+]
